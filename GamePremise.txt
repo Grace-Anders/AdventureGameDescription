@@ -12,3 +12,6 @@ The game takes place in space. All choices the player makes take place in the pl
 
 ### Characters
 The only character in the game is you. Two out of the three endings do result in interaction with other creatures.
+
+### Player Goals
+The goal of the game is to ensure your character doesn't run out of health, stamina, or fuel, and  to unlock a positive ending.
