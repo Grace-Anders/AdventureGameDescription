@@ -6,3 +6,6 @@ Brief description of your game:
 Radio Silent is a game where you play as a lone spaceman. You
 are running low on stamina and fuel, and have a limited time to save
 yourself. The goal is to survive, can you?
+
+### World
+The game takes place in space. All choices the player makes take place in the player's ship, and on planets they land on, The planet's environment depends on if said planet is viable for life. The player can find Food and Fuel, and a Relic. The items they find depend on whether the player is on their ship or on a planet.
