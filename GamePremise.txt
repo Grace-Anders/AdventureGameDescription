@@ -1,3 +1,7 @@
+# Radio Silent
+Adventure Game for Introduction to Programming
+
+## Game Overview
 Radio Silent is a game where you play as a lone spaceman. You
 are running low on stamina and fuel, and have a limited time to save
 yourself. The goal is to survive, can you?
